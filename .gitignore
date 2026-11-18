@@ -1,0 +1,16 @@
+# Dependencies (reinstall with `npm ci`)
+node_modules/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
